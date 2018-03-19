@@ -1,0 +1,30 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body{
+  text-align: center;
+
+}
+
+
+
+.todo{
+  display: inline-block;
+  background-color: rgba(#00283e, 0.1);
+}
+
+.le{
+width: 500px;
+display: inline-block;
+}
+.ce{
+  margin: 30px;
+  display: inline-block;
+  position: relative;
+  left: auto;
+}
+
+.contenedor{
+
+  width: 500px;
+}
